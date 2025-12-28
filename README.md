@@ -310,7 +310,7 @@ This roadmap is built on the collective wisdom of the AI/ML community, inspired 
 
 ## 📬 Connect
 
-- GitHub: [@VIROOPAKSHC](https://github.com/VIROOPAKSHC)
+- GitHub: [VIROOPAKSHC](https://github.com/VIROOPAKSHC)
 - LinkedIn: [Viroopaksh Chekuri](https://linkedin.com/in/viroopaksh-chekuri25/)
 
 ---
